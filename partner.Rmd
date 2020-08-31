@@ -1,0 +1,28 @@
+---
+title: "Lab 1 partner.Rmd File"
+author: "Malik Bulur"
+date: "8/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>**Partner's Name:**
+<br>Jonny DeGardner
+
+**Partner's GitHub Usernme:** 
+<br>jdega
+
+**Owner's Most Recent Commit:**
+<br>Pushed two files hw1.Rmd and hw1.html to the GitHub repository with the commit message "Test commit, hello!".
+
+**Commit ID:**
+<br>8f5ad6512875efcb3ce9f3151b44007612a5eec8
+
+**Knitting Owner's Rmd File:**
+<br>I can't knit the hw1.Rmd file because the image was not found in the resource path. This means the owner included an image that can only be found on his desktop and not mine.
+
+**Error encountered or How to Make GitHub Better:**
+<br>No errors with GitHub itself was encountered. Only when knitting the hw1.Rmd file an error occured. One way to take GitHub to the next level is to be able to edit code live with others like in Google Docs where everyone sees the changes to the docs instantly.
